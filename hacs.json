@@ -1,0 +1,7 @@
+{
+  "name": "SwitchBot Cloud",
+  "domains": [
+    "sensor"
+  ],
+  "iot_class": "Cloud Polling"
+}
